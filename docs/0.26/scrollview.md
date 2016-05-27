@@ -91,7 +91,7 @@ ScrollView内部的其他响应者尚无法阻止ScrollView本身成为响应者
 				<h6 class="propTitle"><a href="flexbox.html#proptypes">Flexbox...</a></h6>
 			</div>
 			<div class="prop">
-				<h6 class="propTitle"><a href="shadowproptypesios。html#style">ShadowPropTypesIOS#style...</a></h6>
+				<h6 class="propTitle"><a href="shadowproptypesios.html#style">ShadowPropTypesIOS#style...</a></h6>
 			</div>
 			<div class="prop">
 				<h6 class="propTitle"><a href="transforms.html#proptypes">Transforms...</a></h6>
